@@ -8,6 +8,8 @@ API | Auth | HTTPS | CORS | Link |
 | 豆瓣 | `OAuth` | Yes | Unknown | [Go!](https://developers.douban.com/wiki/?title=api_v2) |
 | 微博 | `OAuth` | Yes | Yes | [Go!](http://open.weibo.com/wiki/API) |
 | 知乎专栏 | No | Yes | Yes | [Go!](https://github.com/shanelau/zhihu) |
+| CNode | No | Yes | Yes | [Go!](https://cnodejs.org/api) |
+| V2EX | No | Yes | Yes | [Go!](https://www.v2ex.com/p/7v9TEc53) |
 | Github | `OAuth` | Yes | Yes | [Go!](https://developer.github.com/v3/) |
 | Tumblr | `OAuth` | Yes | Unknown | [Go!](https://www.tumblr.com/docs/en/api/v2) |
 | Twitter | `OAuth` | Yes | No | [Go!](https://developer.twitter.com/en/docs) |
