@@ -1,6 +1,6 @@
 # About
-- 提供常用的国内外公共api
-- 更全面的国内api请查看 [阿里云市场!](https://market.aliyun.com/data?spm=5176.9502607.401001.7.4c164d50fEelH3)
+- 仅提供常用的国内外公共api
+- 更全面的国内api请查看 [阿里云市场](https://market.aliyun.com/data?spm=5176.9502607.401001.7.4c164d50fEelH3)
 - 更全面的国外api请查看 [toddmotto/public-apis ](https://github.com/toddmotto/public-apis#animals)
 # 常用公共API
 API | Auth | HTTPS | CORS | Link |
